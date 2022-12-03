@@ -21,7 +21,7 @@ $ git clone https://github.com/vyrexc/crack_f7
 
 $ cd crack_f7
 
-$ python Run1.py
+$ python run.py
 
 # update tools
 
@@ -29,4 +29,6 @@ $ cd crack_f7
 
 $ git pull
 
-$ python Run1.py
+$ python run.py
+
+#PAID SC 
