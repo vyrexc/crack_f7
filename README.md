@@ -11,6 +11,6 @@ cd crack_f7
 
 git pull
 
-python main.py
+python run.py
 
 # Paid 
