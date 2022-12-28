@@ -1,8 +1,8 @@
-# crack_f7
+# Informasi
 
 AUTHOR : vyrexc
 
-WhatsApp : 083823705993
+Facebook : Vyex New
 
 # Tools 
 git clone https://github.com/vyrexc/crack_f7
